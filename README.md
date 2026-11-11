@@ -53,6 +53,6 @@ Run tests:
 ```bash
 python -m pytest
 ```
- 
- 
-## Run On Colab: [Click the link](https://colab.research.google.com/drive/10pl9sCe-C3XD6MG4_-480GDMD9TiKOth?usp=sharing)
+ ## Run on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10pl9sCe-C3XD6MG4_-480GDMD9TiKOth?usp=sharing)
