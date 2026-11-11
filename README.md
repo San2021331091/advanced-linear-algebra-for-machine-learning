@@ -1,4 +1,4 @@
-# Advanced Linear Algebra for AI
+# Advanced Linear Algebra for AI and Machine Learning
 
 A hands-on, from-first-principles learning repository for the linear algebra used in
 machine learning, deep learning, computer vision, and modern language models.
